@@ -147,7 +147,7 @@ public class MyScrollView extends NestedScrollView implements View.OnTouchListen
                 taskCollections.add(task);
             }
             //加载页数叠加
-            ToastUtil.showToast(getContext(),"loading...第" + page + "页 : size=" + data.size());
+            ToastUtil.showToast(getContext(),"loading...第" + page + "页");
             page++;
         } else {
 //            Toast.makeText(getContext(), "no more pic...", Toast.LENGTH_SHORT).show();
