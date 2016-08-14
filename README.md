@@ -2,7 +2,7 @@
 - ---------------------------------------
 ### screenshot
 
-<img src="/screenshot.gif" width="320" height="500" />
+<img src="/screenShot.gif" width="320" height="500" />
 
 
 
